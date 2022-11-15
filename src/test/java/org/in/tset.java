@@ -17,4 +17,11 @@ private void srini() {
 	System.out.println("s");
 
 }
+private void medavakkam() {
+	System.out.println("m");
+}
+private void pallikaranai() {
+	System.out.println("p");
+
+}
 }
